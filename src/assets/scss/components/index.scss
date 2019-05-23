@@ -1,0 +1,23 @@
+.index__div_first {
+	justify-content: center;
+	align-items: center;
+}
+
+.index__div_first_left__top {
+	font-size: 40px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.index__div_first_left__bottom {
+	font-size: 22px;
+	text-transform: uppercase;
+	color: red;
+	font-weight: bold;
+}
+
+@media screen and (max-width:650px) {
+    .index__div_first_right {
+        display: none;
+    }
+}
