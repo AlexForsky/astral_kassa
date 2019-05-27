@@ -17,19 +17,39 @@
 }
 
 .index__div_second {
+	//max-width: 1100px;
+	//margin: 0 auto;
+	padding: 2rem;
+	background-color: #FFDE06;
+}
+
+.index__div_second__text {
 	max-width: 1100px;
 	margin: 0 auto;
-	padding: 2rem;
 }
 
 .divider {
 	width: 50%;
 	height: 1px;
 	background-color: black;
-	margin: 0 auto;
+	margin: 1rem auto;
 }
+
+.index__div_second__attention {
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+
+.index__div_second__img {
+	margin: 2rem auto;
+}
+
 @media screen and (max-width:650px) {
     .index__div_first_right {
         display: none;
+    }
+
+    .index__div_second__img {
+    	display: none;
     }
 }
