@@ -84,6 +84,11 @@
 	justify-content: center;
 }
 
+.main_right__title {
+	color: white;
+	font-weight: bold;
+}
+
 @media screen and (max-width:650px) {
     .index__div_first_right {
         display: none;
