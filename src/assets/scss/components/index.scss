@@ -44,6 +44,46 @@
 	margin: 2rem auto;
 }
 
+.index__div__third {
+	margin-top: 2rem;
+}
+.index__div__third__from {
+	margin-top: 2rem;
+	max-width: 1100px;
+	justify-content: center;
+}
+
+.kart__title {
+	font-weight: bold;
+}
+
+.kart__text {
+	font-size: 0.9rem;
+}
+
+.index__div__third__alcohol {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	max-width: 1100px;
+	justify-content: center;
+}
+
+.alcohol__text__title {
+	color: red;
+	text-transform: uppercase;
+}
+
+.index__div__fourth {
+	padding: 2rem;
+	background-color: #FFDE06;
+}
+
+.index__div__fourth__main {
+	margin-top: 2rem;
+	max-width: 1100px;
+	justify-content: center;
+}
+
 @media screen and (max-width:650px) {
     .index__div_first_right {
         display: none;
@@ -52,4 +92,14 @@
     .index__div_second__img {
     	display: none;
     }
+
+    .alcohol__img {
+    	display: none;
+    }
+
+    .index__div__fourth__main_left {
+    	display: none;
+    }
 }
+
+
