@@ -29,7 +29,7 @@
 }
 
 .divider {
-	width: 50%;
+	width: 75%;
 	height: 1px;
 	background-color: black;
 	margin: 1rem auto;
@@ -87,6 +87,20 @@
 .main_right__title {
 	color: white;
 	font-weight: bold;
+}
+
+
+.index__div__fifth {
+	padding: 2rem;
+}
+
+.index__div__fifth__main {
+	max-width: 1100px;
+	margin: 0 auto;
+}
+
+.index__div__fifth__title {
+	text-transform: uppercase;
 }
 
 @media screen and (max-width:650px) {
