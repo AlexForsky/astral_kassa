@@ -32,7 +32,7 @@
 	width: 75%;
 	height: 1px;
 	background-color: black;
-	margin: 1rem auto;
+	margin: 2rem auto;
 }
 
 .index__div_second__attention {
@@ -101,6 +101,27 @@
 
 .index__div__fifth__title {
 	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.index__div__fifth__items {
+	justify-content: center;
+}
+
+.index__div__fifth__item {
+	margin: 1rem;
+	img {
+		margin-bottom: 1rem;
+	}
+}
+
+.index__div__fifth__program {
+	margin-top: 2rem;
+}
+.index__div__fifth__program-left {
+	li {
+		font-weight: bold;
+	}
 }
 
 @media screen and (max-width:650px) {
@@ -117,6 +138,10 @@
     }
 
     .index__div__fourth__main_left {
+    	display: none;
+    }
+
+    .index__div__fifth__program-right {
     	display: none;
     }
 }
