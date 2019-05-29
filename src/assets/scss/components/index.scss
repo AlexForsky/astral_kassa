@@ -132,7 +132,16 @@
 .index__div__sixth__video {
 	margin-top: 1.5rem;
 	//max-width: 600px;
-	
+
+}
+
+
+.index__div__seventh__main {
+	max-width: 1100px;
+	margin: 2rem auto;
+	li {
+		font-weight: bold;
+	}
 }
 
 @media screen and (max-width:650px) {
