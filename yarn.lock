@@ -3869,7 +3869,7 @@ gulplog@^1.0.0:
     glogg "^1.0.0"
 
 handlebars@^4.0.2, handlebars@^4.0.5:
-  version "4.0.12"
+  version "4.0.14"
   resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.0.12.tgz#2c15c8a96d46da5e266700518ba8cb8d919d5bc5"
   integrity sha512-RhmTekP+FZL+XNhwS1Wf+bTTZpdLougwt5pcgA1tuz6Jcx0fpH/7z0qd71RKnZHBCxIRBHfBOnio4gViPemNzA==
   dependencies:
@@ -6058,7 +6058,7 @@ panini@^1.3.0:
     deepmerge "^1.3.2"
     front-matter "^2.0.5"
     glob "^7.0.0"
-    handlebars "^4.0.5"
+    handlebars "^4.0.14"
     highlight.js "^8.9.1"
     js-yaml "^3.5.2"
     marked "^0.3.14"
@@ -7523,7 +7523,7 @@ style-sherpa@^1.0.0:
   resolved "https://registry.yarnpkg.com/style-sherpa/-/style-sherpa-1.0.2.tgz#1df35cc23818bc0b6014e7c70df2084a054e0478"
   integrity sha1-HfNcwjgYvAtgFOfHDfIISgVOBHg=
   dependencies:
-    handlebars "^4.0.2"
+    handlebars "^4.0.14"
     highlight.js "^8.8.0"
     marked "^0.3.5"
     string-template "^0.2.1"
